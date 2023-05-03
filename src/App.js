@@ -3,12 +3,11 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import HomePage from './HomePage';
 import SearchPage from './SearchPage';
 import CoordinatesPage from './CoordinatesPage';
-import SearchBox from './SearchBox';
 
 
 function App() {
   return (
-    <Router>
+    <Router basename="small-library-of-babel">
       <Routes>
         <Route path="/" element={<HomePage/>} />
         <Route path="/search/:queryText" element={<SearchPage/>} />
