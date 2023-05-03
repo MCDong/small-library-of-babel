@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/small-library-of-babel/static/css/main.e6c13ad2.css",
+    "main.js": "/small-library-of-babel/static/js/main.94943aac.js",
+    "static/js/787.14a99d38.chunk.js": "/small-library-of-babel/static/js/787.14a99d38.chunk.js",
+    "index.html": "/small-library-of-babel/index.html",
+    "main.e6c13ad2.css.map": "/small-library-of-babel/static/css/main.e6c13ad2.css.map",
+    "main.94943aac.js.map": "/small-library-of-babel/static/js/main.94943aac.js.map",
+    "787.14a99d38.chunk.js.map": "/small-library-of-babel/static/js/787.14a99d38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.94943aac.js"
+  ]
+}
